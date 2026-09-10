@@ -1,1 +1,3 @@
-# AI_HR_RECRUITMENT
+# TalentPulse AI
+
+TalentPulse AI is an AI-powered talent management project.
